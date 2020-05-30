@@ -1,0 +1,9 @@
+C:\Users\ubai's\source\repos\project tsukinome\project tsukinome\bin\Debug\project tsukinome.exe.config
+C:\Users\ubai's\source\repos\project tsukinome\project tsukinome\bin\Debug\project tsukinome.exe
+C:\Users\ubai's\source\repos\project tsukinome\project tsukinome\bin\Debug\project tsukinome.pdb
+C:\Users\ubai's\source\repos\project tsukinome\project tsukinome\obj\Debug\project tsukinome.csprojAssemblyReference.cache
+C:\Users\ubai's\source\repos\project tsukinome\project tsukinome\obj\Debug\project_tsukinome.Form1.resources
+C:\Users\ubai's\source\repos\project tsukinome\project tsukinome\obj\Debug\project_tsukinome.Properties.Resources.resources
+C:\Users\ubai's\source\repos\project tsukinome\project tsukinome\obj\Debug\project tsukinome.csproj.GenerateResource.cache
+C:\Users\ubai's\source\repos\project tsukinome\project tsukinome\obj\Debug\project tsukinome.exe
+C:\Users\ubai's\source\repos\project tsukinome\project tsukinome\obj\Debug\project tsukinome.pdb
